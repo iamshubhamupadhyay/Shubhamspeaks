@@ -1,4 +1,4 @@
-language:      node_j
+language:      node_js
 git:
   depth:       3
 node_js:
